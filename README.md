@@ -1,5 +1,7 @@
-Source code for Espruino demos used at Exhibitions
+Source code for Espruino demos used at exhibitions
 ==================================================
+
+Find out [where we'll be next](http://www.espruino.com/Events)...
 
 * [Bluetooth Flag](flag.js)
 * [Bluetooth weather station](weatherstation.js)
