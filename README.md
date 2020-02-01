@@ -9,3 +9,4 @@ Find out [where we'll be next](http://www.espruino.com/Events)...
 * [Bangle.js demo slideshow](https://github.com/espruino/BangleApps/blob/master/apps/demoapp/app.js)
 * [No-solder computer](https://www.espruino.com/Espruino+Home+Computer)
 * [Small flappy bird game](https://www.espruino.com/Pico+Flappy+Bird+Game)
+* [Tiny word clock](https://www.espruino.com/Tiny+Word+Clock)
